@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Computer Engeneering
 - 💬 Ask me about Everything
 - 📫 How to reach me: Discord or insta
-- 😄 Pronouns: Dias
 - ⚡ Fun fact: I love Moelas!
 
 <div style="display: inline_block"><br>
