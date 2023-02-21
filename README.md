@@ -1,9 +1,7 @@
  Hi there 👋
 
 
-**J0aoDias/J0aoDias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Computer Engeneering
 - 💬 Ask me about Everything
@@ -27,4 +25,5 @@ Here are some ideas to get you started:
   <a href = "mailto:joaodias0012@mail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0aoDias&layout=compact&langs_count=16&theme=dar"/>
 
