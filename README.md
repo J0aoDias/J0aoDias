@@ -16,7 +16,6 @@
   <img align="center" alt="Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Nmap" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Nmap_logo.svg](https://nmap.org/images/sitelogo-nmap.svg">
 </div>
 
 ---
